@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\x51no\source\repos\4lab\4lab\main.cpp(231,31): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
-C:\Users\x51no\source\repos\4lab\4lab\main.cpp(266,37): warning C4101: BUF4: неиспользованная локальная переменная
-  Создание кода
-  3 of 20 functions (15.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  4lab.vcxproj -> C:\Users\x51no\source\repos\4lab\x64\Release\4lab.exe
