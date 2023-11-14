@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\x51no\source\repos\4lab\4lab\main.cpp(231,31): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\x51no\source\repos\4lab\4lab\main.cpp(266,37): warning C4101: BUF4: неиспользованная локальная переменная
+  4lab.vcxproj -> C:\Users\x51no\source\repos\4lab\x64\Debug\4lab.exe
